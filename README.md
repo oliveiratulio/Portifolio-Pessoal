@@ -5,7 +5,7 @@ Este é o meu portfólio pessoal como desenvolvedor front-end. Ele apresenta min
 
 ## 📌 Link do Projeto
 
-[Acesse aqui o portfólio online](https://oliveiratulio.github.io/Portifolio-Pessoal )
+[Acesse aqui o portfólio online]( https://oliveiratulio.github.io/Portifolio-Pessoal/ )
 
 
 ---
